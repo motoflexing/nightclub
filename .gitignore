@@ -1,0 +1,12 @@
+node_modules
+.env
+dist
+build
+.dart_tool
+.idea
+.vscode
+coverage
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
